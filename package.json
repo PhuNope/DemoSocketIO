@@ -1,0 +1,11 @@
+{
+  "name": "DemoSocketIO",
+  "uuid": "1ec972f6-bb6e-4179-b652-a7daaf65dbaf",
+  "version": "3.6.2",
+  "creator": {
+    "version": "3.6.2"
+  },
+  "dependencies": {
+    "socketio": "^1.0.0"
+  }
+}
