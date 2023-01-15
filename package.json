@@ -6,6 +6,7 @@
     "version": "3.6.2"
   },
   "dependencies": {
+    "socket.io-client": "^4.5.4",
     "socketio": "^1.0.0"
   }
 }
